@@ -1,0 +1,1 @@
+Nesse módulo, comecei aprendendo a utilizar o git e alguns de seus comandos como init, add, clone, status, log, pull, push, além de trabalhar com repositórios locais ou online, mesclar branches e resolver conflitos.
